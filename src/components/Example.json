@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Arjun Kharpal",
+      "title": "El Salvador bought $21 million of bitcoin as it becomes first country to make it a legal currency - CNBC",
+      "description": "El Salvador's bitcoin law, which was passed in June, took effect on Tuesday, making the world's most popular cryptocurrency legal tender.",
+      "url": "https://www.cnbc.com/2021/09/07/el-salvador-buys-400-bitcoin-ahead-of-law-making-it-legal-currency.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106937882-1630990784900-gettyimages-1234925807-EL_SALVADOR_BITCOIN.jpeg?v=1630990895",
+      "publishedAt": "2021-09-07T05:36:28Z",
+      "content": "El Salvador bought roughly $20.9 million worth of bitcoin, one day before it formally adopts the world's most popular cryptocurrency as legal tender. \r\nIn a series of tweets Monday, President Nayib B… [+2840 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Madeline Holcombe, CNN",
+      "title": "This Labor Day saw 300% more new Covid-19 cases on average than last year - CNN",
+      "description": "Covid-19 cases have been on the rise in much of the country, and the seven-day average of new cases Monday was more than 300% higher than Labor Day of last year, according to data from Johns Hopkins University.",
+      "url": "https://www.cnn.com/2021/09/07/health/us-coronavirus-tuesday/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210907000206-covid-test-site-083021-miami-super-tease.jpg",
+      "publishedAt": "2021-09-07T05:10:00Z",
+      "content": "(CNN)Covid-19 cases have been on the rise in much of the country, and the seven-day average of new cases Monday was more than 300% higher than Labor Day of last year, according to data from Johns Hop… [+5780 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Mail" },
+      "author": "Tommy Taylor",
+      "title": "Mu variant detected in every U.S. state except Nebraska - Daily Mail",
+      "description": "The Mu variant, which scientists fear may be more transmissible and vaccine resistant, has been detected in 49 U.S. states as Florida and California have reported the highest numbers",
+      "url": "https://www.dailymail.co.uk/news/article-9964415/Mu-variant-detected-U-S-state-except-Nebraska.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2021/09/07/05/47592595-0-image-a-8_1630990578237.jpg",
+      "publishedAt": "2021-09-07T04:39:34Z",
+      "content": "The Mu variant of COVID-19- which scientists fear could be more transmissible than Delta - has now been detected in all U.S. states with the exception of Nebraska. \r\nFlorida and California have repor… [+5054 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Louisville Cardinals vs. Ole Miss Rebels | Full Game Highlights - ESPN College Football",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aTVkRTdkZzRCc2PSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-09-07T04:03:30Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Jody Serrano",
+      "title": "A New Rumor Says Apple Has No Immediate Plans to Create a Satellite iPhone - Gizmodo",
+      "description": "The ability to call and text anyone, anywhere is not in the iPhone's future at this time.",
+      "url": "https://gizmodo.com/a-new-rumor-says-apple-has-no-immediate-plans-to-create-1847626845",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/291d964661e3468e0241c645b6dcdd82.jpg",
+      "publishedAt": "2021-09-07T03:29:00Z",
+      "content": "Reports that the iPhone 13 would allow users to text and call even when they dont have cell coverage by connecting to satellites caused quite a stir last week, especially considering that Apples fall… [+2004 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "NASA’s Perseverance Rover Collects First Mars Rock Sample – “Truly a Historic Moment” - SciTechDaily",
+      "description": "The rock core is now enclosed in an airtight titanium sample tube, and will be available for retrieval in the future. NASA’s Perseverance rover today completed the collection of the first sample of Martian rock, a core from Jezero Crater slightly thicker than…",
+      "url": "https://scitechdaily.com/nasas-perseverance-rover-collects-first-mars-rock-sample-truly-a-historic-moment/",
+      "urlToImage": "https://scitechdaily.com/images/First-Mars-Rock-Sample.gif",
+      "publishedAt": "2021-09-07T03:24:51Z",
+      "content": "ByNASASeptember 6, 2021\r\nPerseverance’s First Cored Mars Rock in Sample Tube: Perseverance’s first cored-rock sample is visible inside this titanium sample collection tube in this image taken on Sept… [+7365 chars]"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": null,
+      "title": "China Trade Surges to New Records on Strong U.S., EU Demand - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=50bc62da-0fa8-11ec-9f04-6f5577477367&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wOS0wNy9jaGluYS1zLXRyYWRlLXVuZXhwZWN0ZWRseS1zdXJnZXMtZGVzcGl0ZS12aXJ1cy1vdXRicmVha3M=",
+      "urlToImage": null,
+      "publishedAt": "2021-09-07T03:17:00Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Amanda Coletta, Bryan Pietsch",
+      "title": "Trudeau, facing 'anti-vaxxer mobs' on election trail, is met with flying gravel at campaign stop - The Washington Post",
+      "description": "The Canadian prime minister dismissed the incident, comparing it to when pumpkin seeds were thrown at him in 2016.",
+      "url": "https://www.washingtonpost.com/world/2021/09/06/canada-election-trudeau-vaccines/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VTNR3KAPJMI6ZOWKQ2YUJ7EKFU.jpg&w=1440",
+      "publishedAt": "2021-09-07T03:16:36Z",
+      "content": "Speaking to reporters on a Liberal campaign plane, Trudeau said that some of the projectiles might have hit his shoulder, comparing it to when a woman threw pumpkin seeds at him in 2016.\r\nStory conti… [+3797 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "The Wire star Michael K Williams dead at 54 - Al Jazeera English",
+      "description": "Black actor who starred in the iconic role of a gay Baltimore armed robber was found dead in his New York apartment.",
+      "url": "https://www.aljazeera.com/news/2021/9/7/the-wire-actor-michael-k-williams-found-dead-in-his",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/09/2021-09-06T213627Z_1834012420_RC234996R695_RTRMADP_3_PEOPLE-MICHAELKWILLIAMS.jpg?resize=1200%2C630",
+      "publishedAt": "2021-09-07T03:14:58Z",
+      "content": "American actor Michael K Williams, one of televisions most memorable stars of recent years for his role in crime drama The Wire, has been found dead in a New York apartment, according to New York Cit… [+2508 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Patrick Reilly",
+      "title": "Portland to cut trade, travel with Texas amid abortion law outrage - New York Post ",
+      "description": "The city of Portland announced it intends to ban trade and travel to the state of Texas in response to the state’s new abortion law.",
+      "url": "https://nypost.com/2021/09/06/portland-to-cut-trade-travel-with-texas-amid-abortion-law/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/oregon-64.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2021-09-07T02:28:00Z",
+      "content": "The city of Portland announced it intends to ban trade and travel to the state of Texas in response to the states new abortion law.\r\nMayor Wheeler announced on Friday that the city council intends to… [+3008 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Investing.com" },
+      "author": "Reuters",
+      "title": "World shares at record high as investors count on Fed largesse By Reuters - Investing.com",
+      "description": "World shares at record high as investors count on Fed largesse",
+      "url": "https://www.investing.com/news/economy/world-shares-at-record-high-as-investors-count-on-fed-largesse-2608932",
+      "urlToImage": "https://i-invdn-com.investing.com/news/indicatornews_1_800x533_L_1413124982.jpg",
+      "publishedAt": "2021-09-07T02:25:00Z",
+      "content": "By Hideyuki Sano\r\nTOKYO (Reuters) - Global stocks inched higher on Tuesday to a record high for the eight straight session as investors wagered the U.S. Federal Reserve is likely to delay the start o… [+2418 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": "Adam Bankhurst",
+      "title": "Tripwire CEO John Gibson Steps Down Following Controversial Comments on Texas Anti-Abortion Law - IGN - IGN",
+      "description": "Following his comments supporting the Texas anti-abortion law, Tripwire CEO John Gibson has stepped down from the company behind such games as Maneater and Chivalry 2.",
+      "url": "https://www.ign.com/articles/tripwire-interactive-ceo-john-gibson-steps-down-following-controversial-comments-on-texas-anti-abortion-law",
+      "urlToImage": "https://assets-prd.ignimgs.com/2021/09/07/untitled-2-1-1630927904415-1630978017910.jpg?width=1280",
+      "publishedAt": "2021-09-07T01:35:52Z",
+      "content": "Following his comments supporting the Texas anti-abortion law, Tripwire CEO John Gibson has stepped down from the company behind such games as Maneater and Chivalry 2.\r\nTripwire announced the news al… [+2841 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Louis Casiano",
+      "title": "New Orleans police chief says 'numerous' arrests made over weekend for looting in wake of Hurricane Ida - Fox News",
+      "description": "Police officers have made \"numerous\" arrests connected to looting in New Orleans as the city continues relief efforts in the wake of Hurricane Ida, officials said Monday.",
+      "url": "https://www.foxnews.com/us/new-orleans-police-arrests-looting-ida",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/Louisiana-ida4.jpg",
+      "publishedAt": "2021-09-07T00:57:14Z",
+      "content": "Police officers have made \"numerous\" arrests connected to looting in New Orleans as the city continues relief efforts in the wake of Hurricane Ida, officials said Monday. \r\nPolice Chief Shaun Ferguso… [+1562 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Brady Henderson",
+      "title": "Duane Brown's hold-in ends, as Pro Bowl left tackle returns to Seattle Seahawks 'ready to go' - ESPN",
+      "description": "With Seattle coach Pete Carroll declaring him \"ready to go\" for the season opener, Seahawks Pro Bowl left tackle Duane Brown returned to practice on Monday, ending his hold-in.",
+      "url": "https://www.espn.com/nfl/story/_/id/32162083/duane-brown-hold-ends-pro-bowl-left-tackle-returns-seattle-seahawks-ready-go",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0907%2Fr905573_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-09-07T00:13:33Z",
+      "content": "RENTON, Wash. -- Duane Brown's hold-in is over. And so is any uncertainty as to whether the Seattle Seahawks will have their Pro Bowl left tackle in Sunday's regular-season opener.\r\n\"He's ready to go… [+3735 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NPR" },
+      "author": "",
+      "title": "Planes Chartered To Evacuate Americans And Others From Afghanistan Remain Grounded - NPR",
+      "description": "Travelers have spent seven days waiting to depart from the northern city of Mazar-e-Sharif. At least 19 U.S. citizens and two green card holders are said to be among the group of about 600.",
+      "url": "https://www.npr.org/2021/09/06/1034626356/planes-chartered-to-evacuate-americans-and-others-from-afghanistan-remain-ground",
+      "urlToImage": "https://media.npr.org/assets/img/2021/09/06/gettyimages-1234963468_wide-34f705f67be8787ef4c47a82978d29404b4191cb.jpeg?s=1400",
+      "publishedAt": "2021-09-06T23:56:31Z",
+      "content": "A plane flies over temporary camp for refugees from Afghanistan at the U.S. Army's Rhine Ordnance Barracks (ROB), where they are being temporarily housed, on August 30, 2021 in Kaiserslautern, German… [+2734 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Vulture" },
+      "author": "Charu Sinha",
+      "title": "Phoebe Waller-Bridge Exits Amazon’s Mr. & Mrs. Smith Reboot - Vulture",
+      "description": "Over creative differences with Donald Glover.",
+      "url": "http://www.vulture.com/2021/09/phoebe-waller-bridge-exits-mr-and-mrs-smith-reboot.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/e8f/3ba/643891875cb8135ae9301ee756e3d17954-phoebe-waller-bridge.1x.rsocial.w1200.jpg",
+      "publishedAt": "2021-09-06T23:54:54Z",
+      "content": "Phoebe Waller-Bridge has left the upcoming Amazon Mr. &amp; Mrs. Smith reboot, per Deadline. Waller-Bridge was set to co-create and star in the series opposite Donald Glover, as the Mrs. Smith to his… [+484 chars]"
+    },
+    {
+      "source": { "id": null, "name": "OregonLive" },
+      "author": "Shane Dixon Kavanaugh | The Oregonian/OregonLive",
+      "title": "Texas lieutenant governor slams ‘dumpster fire’ Portland and its ‘depraved’ leaders for planned boycott over - OregonLive",
+      "description": "The Portland City Council will vote Wednesday on a plan to ban buying goods and services from the Lone Star state over its new law restricting access to abortions.",
+      "url": "https://www.oregonlive.com/news/2021/09/texas-lieutenant-governor-slams-dumpster-fire-portland-and-its-depraved-leaders-for-planned-boycott-over-states-abortion-law.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/RtpqhGxR43TUj4YmsUEhEgfMJgo=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/E263S5QFDREDZIZUGOPE6AMX24.jpg",
+      "publishedAt": "2021-09-06T23:48:18Z",
+      "content": "Texas Lt. Gov. Dan Patrick lambasted Portland leaders as depraved and accused them of putting residents in grave danger in response to the citys plan to ban buying goods and services from the Lone St… [+3077 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Jordain Carney",
+      "title": "Blinken to testify before Senate panel next week on Afghanistan | TheHill - The Hill",
+      "description": "Secretary of State Antony Blinken will appear before the Senate Foreign Relations Commi...",
+      "url": "https://thehill.com/homenews/senate/571002-blinken-to-testify-before-senate-panel-next-week-on-afghanistan",
+      "urlToImage": "https://thehill.com/sites/default/files/article_images/blinkenantony_9321_gettyimages.jpg",
+      "publishedAt": "2021-09-06T23:48:15Z",
+      "content": "Secretary of State Antony Blinken will appear before the Senate Foreign Relations Committee on Tuesday, Sept. 14 to testify about the administration's withdrawal from Afghanistan. \r\nIt is the first s… [+4175 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Times of Israel" },
+      "author": null,
+      "title": "IDF chief says Israel accelerating Iran strike plans, acting throughout Mideast - The Times of Israel",
+      "description": "Aviv Kohavi also defends top brass amid anger over border cop's death: 'If we don't back them up we'll end up without commanders'",
+      "url": "https://www.timesofisrael.com/idf-chief-says-israel-accelerating-iran-strike-plans-acting-throughout-mideast/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2021/09/F210714TN35-1024x640.jpg",
+      "publishedAt": "2021-09-06T23:26:15Z",
+      "content": "Israel has “greatly accelerated” preparations for action against Iran’s nuclear program, army chief Aviv Kohavi said in an interview published Monday.\r\nKohav told Walla news that “a significant chunk… [+4646 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Meredith Deliso",
+      "title": "Virginia to remove 12-ton Robert E. Lee statue in state capital this week - ABC News",
+      "description": "",
+      "url": "https://abcnews.go.com/US/virginia-remove-12-ton-robert-lee-statue-state/story?id=79862294",
+      "urlToImage": "https://s.abcnews.com/images/US/lee-1-ap-er-210906_1630958502303_hpMain_16x9_992.jpg",
+      "publishedAt": "2021-09-06T22:42:43Z",
+      "content": "More than a year after Virginia Gov. Ralph Northam ordered the removal of a giant statue of Confederate Gen. Robert E. Lee in the state's capital, the monument will be coming down this week, state of… [+3014 chars]"
+    }
+  ]
+}
